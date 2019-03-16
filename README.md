@@ -4,8 +4,11 @@ This is just a skeleton for future node.js apps. To use it you need to install n
 
 # Running locally
 
+```bash 
 $ git clone git@github.com:jomaoppa/node-js-template.git # or clone your own fork
 $ cd node-js-template
 $ npm install
 $ node index.js
+```
+
 Your app should now be running on localhost:3000.
