@@ -5,8 +5,8 @@ A barebones Node.js app, using Express 4. To use it you need to install node.js 
 ## Running locally
 
 ```bash 
-$ git clone https://github.com/aleksandarkrst/node-app # or clone your own fork
-$ cd node-app
+$ git clone https://github.com/aleksandarkrst/node-js-app # or clone your own fork
+$ cd node-js-app
 $ npm install
 $ node app.js
 ```
